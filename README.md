@@ -1,4 +1,5 @@
-# BlackboxAttack
+## BlackboxAttack (CS 5584 Course Project - Adv ML)
+
 Step 0. Install Scikit-learn for python.
 
 Step 1. Run trainNN.py to create a target neural network classifier. Tune model parameters as needed. The "oracle" is the output that will be used as the target model.
